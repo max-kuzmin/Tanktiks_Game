@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TopFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <names>
+    <string>Player 1</string>
+    <string>Player 2</string>
+    <string>Player 3</string>
+    <string>Player 4</string>
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+  </names>
+  <scores>
+    <int>145372</int>
+    <int>95323</int>
+    <int>75435</int>
+    <int>43400</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+  </scores>
+</TopFile>

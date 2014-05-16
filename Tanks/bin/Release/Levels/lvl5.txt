@@ -1,0 +1,9 @@
+16
+7
+.....BBB.R.BBBBB
+.....BBB...BBBBB
+.S.S.BBB.R.BBBBB
+..G..BBB...BBWBF
+.S.S.BBB.R.BBBBB
+.....BBB...BBBBB
+.....BBB.R.BBBBB

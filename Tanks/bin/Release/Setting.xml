@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <difficulty>1</difficulty>
+  <keys>0</keys>
+  <unlimEnemy>false</unlimEnemy>
+  <collisionTanks>true</collisionTanks>
+  <bonusesEnemy>true</bonusesEnemy>
+  <collisionBullets>true</collisionBullets>
+</SettingFile>
